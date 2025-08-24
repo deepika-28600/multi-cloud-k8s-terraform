@@ -1,0 +1,6 @@
+bases:
+  - ../../base
+images:
+  - name: ghcr.io/your-org/multicloud-app
+    newTag: dev
+nameSuffix: -dev

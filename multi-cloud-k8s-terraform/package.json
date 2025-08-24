@@ -1,0 +1,12 @@
+{
+  "name": "multicloud-app",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node src/test.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
